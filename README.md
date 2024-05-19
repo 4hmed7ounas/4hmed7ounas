@@ -30,26 +30,10 @@
 ![linerobot](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/edd3e306-6c6b-4815-ba85-6edb758b4afb)
 #### 6-bitMulti-Computational Unit
 ![MCU](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/0f599efa-3b7e-4841-8a61-d90673e50ebd)
-#### Light Seeking Robot
-![lightseeking](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/c307b039-371d-4c4c-8caa-119b2b20e247)
-#### 6-bit Beauty Salon
-![beautySaloon](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/6873bb29-b3de-4b20-bd9c-9cc1a0e56d5d)
-#### Multi-Functional Calculator
-![calculatordld](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/8124ccca-4782-4276-8f32-8c94ac8e01a3)
 #### NewApp using API
 ![newsapp](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/3dd8ea7a-f012-453b-9e64-c52f82b964c0)
-#### Pharmacy Management System
-![Pharmacy](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/a7701e58-6c6a-4cc1-b40b-5fe2ce33e1ac)
-#### Word Manipulation Site
-![wordInfo](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/0112ef44-31fa-4754-93a9-3ca06fcc671c)
 #### Bee in the Maze
 ![bee maze](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/4ee6e981-c226-4f29-bb69-0c3f0ae35832)
-#### Favourite Panda App
-![favpanda](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/9ccc9fb5-5e30-42fe-a2ef-c9b7331da4cb)
-#### Casino Royal (Number Guessing game)
-![casino](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/c0cc1e65-2294-4232-9e2f-771c202c63d9)
-#### Music and Movies Library
-![music](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/2e37dfac-ca2e-4209-b65f-012159c43a41)
 #### 3D Universal Joint
 ![universaljoint](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/cfc1fb6e-0d79-4120-9ee5-a0fd7534c13e)
 
