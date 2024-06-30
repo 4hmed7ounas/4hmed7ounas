@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Ahmed Younas
-- 👀 I’m interested in Web Development, Web Designing, Robotics, Artificial Intelligence, and Machine Learning.
+- 👀 I’m interested in Web Development, Web Designing, Mobile App Development, Robotics, Artificial Intelligence, and Machine Learning.
 - 🌱 I’m currently learning Artificial Intelligence, Robotics, and Machine Learning from FAST - National University of Computer and Emerging Sciences.
 - 💞️ I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/ahmed-younas-360b481a5)
 - Here is the link to my portfolio [ahmedyounas.netlify.app](https://ahmedyounas.netlify.app)
@@ -9,6 +9,7 @@
 ![html](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/c5da335f-d289-4a4d-84e9-7deb7819c64f)
 ![css](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/b1844d3e-641d-4818-a1d6-3017be75a034)
 ![js](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/f7cac07a-752f-48f8-aedb-234e6c4c0aef)
+![flutter](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/ce44e951-e9f3-4041-9710-70d2768e7b1d)
 ![react](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/af3cbcee-eab0-4f41-b2d9-3d5519c09ff4)
 ![mongo](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/7a942e05-875b-4923-a9ce-f3329b474883)
 ![node](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/eb1138cc-8635-4b7d-88e9-5c8a2b9ad7e1)
@@ -34,6 +35,6 @@
 ![newsapp](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/3dd8ea7a-f012-453b-9e64-c52f82b964c0)
 #### Bee in the Maze
 ![bee maze](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/4ee6e981-c226-4f29-bb69-0c3f0ae35832)
-#### 3D Universal Joint
-![universaljoint](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/cfc1fb6e-0d79-4120-9ee5-a0fd7534c13e)
+#### Resume
+![Ahmed-Younas-Resume](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/1aa4c4e2-96f7-4952-bde2-ce32f82c36d9)
 
