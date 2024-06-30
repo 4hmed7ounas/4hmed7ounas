@@ -24,6 +24,8 @@
 ![linux](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/b3a50b74-6619-43c7-af81-26f5e25e4ccb)
 ![cisco](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/fd0a9123-c299-4032-9211-ced42573f469)
 ![circuits](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/4bbb1e9f-5451-47e4-849c-9da0eae6246f)
+# Resume
+![Ahmed-Younas-Resume](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/1aa4c4e2-96f7-4952-bde2-ce32f82c36d9)
 # My Projects:
 #### Portfolio
 ![Portfolio](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/44153bce-706c-4cbe-87d2-ba1053c61342)
@@ -35,6 +37,3 @@
 ![newsapp](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/3dd8ea7a-f012-453b-9e64-c52f82b964c0)
 #### Bee in the Maze
 ![bee maze](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/4ee6e981-c226-4f29-bb69-0c3f0ae35832)
-#### Resume
-![Ahmed-Younas-Resume](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/1aa4c4e2-96f7-4952-bde2-ce32f82c36d9)
-
