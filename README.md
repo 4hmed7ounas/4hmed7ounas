@@ -1,29 +1,26 @@
-# 👋 Hi, I’m Ahmed Younas
-- 👀 I’m interested in Web Development, Web Designing, Mobile App Development, Robotics, Artificial Intelligence, and Machine Learning.
-- 🌱 I’m currently learning Artificial Intelligence, Robotics, and Machine Learning from FAST - National University of Computer and Emerging Sciences.
-- 💞️ I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/ahmed-younas-360b481a5)
-- Here is the link to my portfolio [ahmedyounas.netlify.app](https://ahmedyounas.netlify.app)
-# My Skills Set:
-![c++](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/fc866ef6-2479-47e2-93c4-df9fdc385020)
-![python](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/937dd065-b87f-4320-9fc7-210149ea9a69)
-![html](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/c5da335f-d289-4a4d-84e9-7deb7819c64f)
-![css](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/b1844d3e-641d-4818-a1d6-3017be75a034)
-![js](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/f7cac07a-752f-48f8-aedb-234e6c4c0aef)
-![flutter](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/ce44e951-e9f3-4041-9710-70d2768e7b1d)
-![react](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/af3cbcee-eab0-4f41-b2d9-3d5519c09ff4)
-![mongo](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/7a942e05-875b-4923-a9ce-f3329b474883)
-![node](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/eb1138cc-8635-4b7d-88e9-5c8a2b9ad7e1)
-![figma](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/a4859a14-4f80-4057-953f-cb31e7d7a353)
-![asp](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/141c6cc6-edfc-47b8-8d11-e9e08e698d2c)
-![csharp](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/71a1e1b8-66a4-421e-99ac-0ac75666d471)
-![bootstrap](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/3965227a-4566-4a63-82f0-e46dfb0954bb)
-![sql](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/afc01718-14ec-42e7-9459-46b8851ba782)
-![solidworks](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/a697ac5f-838c-4b94-9757-feab5c0d1356)
-![vscode](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/052a066f-a881-4739-aa6b-79cfba16e07b)
-![ms](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/e3497cb0-a063-4450-af6b-532f8164233f)
-![linux](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/b3a50b74-6619-43c7-af81-26f5e25e4ccb)
-![cisco](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/fd0a9123-c299-4032-9211-ced42573f469)
-![circuits](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/4bbb1e9f-5451-47e4-849c-9da0eae6246f)
+# 💫 About Me:
+👀 I’m interested in Web Development, Web Designing, Mobile App Development, Robotics, Artificial Intelligence, and Machine Learning.<br>🌱 I’m currently learning Artificial Intelligence, Robotics, and Machine Learning from FAST - National University of Computer and Emerging Sciences.<br>💞️ I’m looking to collaborate on LinkedIn<br>Here is the link to my portfolio ahmedyounas.netlify.app
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ahmedyounas0273_73678) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/4hmed7ounass) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4hmed7ounas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-younas) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/4hmed7ounas) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ahmed-Younas-12) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ahmedasticcc) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@4hmed7ounas) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/4hmed7ounass) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@4hmed7ounass) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=4hmed7ounas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=4hmed7ounas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=4hmed7ounas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=4hmed7ounas&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=4hmed7ounas&icon=4&color=1)](https://visitcount.itsvg.in)
+
 # Resume
 ![Ahmed-Younas-Resume](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/1aa4c4e2-96f7-4952-bde2-ce32f82c36d9)
 # My Projects:
@@ -33,7 +30,7 @@
 ![linerobot](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/edd3e306-6c6b-4815-ba85-6edb758b4afb)
 #### 6-bitMulti-Computational Unit
 ![MCU](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/0f599efa-3b7e-4841-8a61-d90673e50ebd)
-#### NewApp using API
+#### NewApp using API Integration
 ![newsapp](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/3dd8ea7a-f012-453b-9e64-c52f82b964c0)
 #### Bee in the Maze
 ![bee maze](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/4ee6e981-c226-4f29-bb69-0c3f0ae35832)
