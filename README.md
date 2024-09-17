@@ -32,5 +32,3 @@
 ![MCU](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/0f599efa-3b7e-4841-8a61-d90673e50ebd)
 #### NewApp using API Integration
 ![newsapp](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/3dd8ea7a-f012-453b-9e64-c52f82b964c0)
-#### Bee in the Maze
-![bee maze](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/4ee6e981-c226-4f29-bb69-0c3f0ae35832)
