@@ -27,9 +27,3 @@
 # My Projects:
 #### Portfolio
 ![Portfolio](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/44153bce-706c-4cbe-87d2-ba1053c61342)
-#### Line Following, weight lifting, and hurdle detecting robot
-![linerobot](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/edd3e306-6c6b-4815-ba85-6edb758b4afb)
-#### 6-bitMulti-Computational Unit
-![MCU](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/0f599efa-3b7e-4841-8a61-d90673e50ebd)
-#### NewApp using API Integration
-![newsapp](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/3dd8ea7a-f012-453b-9e64-c52f82b964c0)
