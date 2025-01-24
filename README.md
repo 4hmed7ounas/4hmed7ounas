@@ -1,4 +1,4 @@
-![supporityo - banner radical](https://github.com/user-attachments/assets/679f2544-7998-4536-a24b-d7381f3cc9e6)# 💫 I'm Ahmed Younas:
+# 💫 I'm Ahmed Younas:
 👀 I’m interested in Web Development, Web Designing, Mobile App Development, Robotics, Artificial Intelligence, and Machine Learning.<br>🌱 I’m currently learning Artificial Intelligence, Robotics, and Machine Learning from FAST - National University of Computer and Emerging Sciences.<br>💞️ I’m looking to collaborate on [LinkedIn](https://linkedin.com/in/ahmed-younas)<br>Here is the link to my portfolio [ahmedyounas.netlify.app](https://ahmedyounas.netlify.app)
 
 ![linkedin cover](https://github.com/user-attachments/assets/69a0e62d-c572-402e-8925-92e1a70c1dba)
