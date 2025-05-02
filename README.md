@@ -22,9 +22,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=4hmed7ounas&icon=4&color=1)](https://visitcount.itsvg.in)
-
-# Resume
-![Ahmed-Younas-Resume](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/1aa4c4e2-96f7-4952-bde2-ce32f82c36d9)
-# My Projects:
-#### Portfolio
-![Portfolio](https://github.com/4hmed7ounas/4hmed7ounas/assets/142696963/44153bce-706c-4cbe-87d2-ba1053c61342)
